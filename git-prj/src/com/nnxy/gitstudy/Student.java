@@ -12,7 +12,7 @@ public class Student {
 		this.id=id;
 		this.username=username;
 		this.password=password;
-		this.age=age;
+		this.age=age+100;
 		this.sex=sex;
 	}
 	
